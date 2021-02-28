@@ -2,7 +2,7 @@
 w1da0's Blog
 === 
 
-- [Linux](#Linux)
+- [Linux](#linux)
 
 ---
 
